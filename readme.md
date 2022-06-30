@@ -95,3 +95,5 @@ pane = pn.Tabs(
 
 pane
 
+# Para ejecutarlo
+panel serve realtime_dashboard.py
