@@ -95,5 +95,28 @@ pane = pn.Tabs(
 
 pane
 
+
 # Para ejecutarlo
 panel serve realtime_dashboard.py
+
+
+#  Links a tutoriales
+https://towardsdatascience.com/building-a-real-time-dashboard-using-python-plotly-library-and-web-service-145f50d204f0
+
+https://sophiamyang.github.io/DS/visualization/real-time/realtimedash.html
+
+https://dev.to/shittu_olumide_/how-to-use-build-a-live-dashboard-with-python-5ed0
+
+https://coderzcolumn.com/tutorials/data-science/how-to-create-dashboard-using-python-matplotlib-panel
+
+https://hackernoon.com/build-a-real-time-stock-price-dashboard-with-python-questdb-and-plotly
+
+https://medium.com/initial-state/how-to-stream-push-data-to-a-real-time-dashboard-api-in-python-7a910e41c001
+
+# Dashboard en 7 minutos
+https://www.natasshaselvaraj.com/interactive-dashboard-python/
+
+https://blog.streamlit.io/how-to-build-a-real-time-live-dashboard-with-streamlit/
+
+https://www.statworx.com/en/content-hub/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/
+
